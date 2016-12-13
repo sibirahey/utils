@@ -15,5 +15,7 @@ public class Constantes {
     public static final String ARCHIVO_PRODUCTOS = "productos.txt";
     public static final String REGEX_USUARIOS = "::";
     public static final String REGEX_PRODUCTOS = "$";
+    public static final String AUTENTICAR = "autenticar";
+    
     
 }
